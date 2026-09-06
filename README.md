@@ -49,7 +49,7 @@ class About extends Me {
     "Database" : { "Firebase", "Sqlite", "PostgreSql" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "OtherTools" : { "Git", "Figma", "Photoshop", }
   };
 }
 ```
