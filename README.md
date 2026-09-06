@@ -39,7 +39,7 @@ Passionate Frontend Developer focused on crafting clean, responsive, and user-ce
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasMootasem&show_icons=true&theme=radical&hide_border=true" alt="Anas's GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasMootasem&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
